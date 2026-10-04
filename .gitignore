@@ -1,0 +1,5 @@
+sealsafeenv/
+*.pem
+myfile.txt
+__pycache__/
+*.pyc
